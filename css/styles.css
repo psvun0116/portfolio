@@ -1,1 +1,10 @@
+img {
+  width: 175px;
+  float: right;
+}
 
+.jumbotron {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
