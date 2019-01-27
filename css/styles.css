@@ -38,3 +38,9 @@ h3 {
 .city {
   font-style: italic;
 }
+
+.gf {
+  font-family: bold;
+  font-style: italic;
+  color: darkgray;
+}
