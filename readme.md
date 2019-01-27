@@ -20,13 +20,13 @@ _https://psvun0116.github.io/portfolio/_
 ## Technologies Used
 
 * _Terminal_
-_Atom_
-_Git_
-_Github_
-_HTML_
-_CSS_
-_Bootstrap_
-_Markdown_
+* _Atom_
+* _Git_
+* _Github_
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _Markdown_
 
 ### License
 
