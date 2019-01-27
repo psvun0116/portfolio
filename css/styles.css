@@ -1,6 +1,7 @@
 img {
-  width: 175px;
+  width: 200px;
   float: right;
+  margin-right: 50px;
 }
 
 .jumbotron {
