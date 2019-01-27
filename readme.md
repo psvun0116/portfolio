@@ -19,7 +19,7 @@ _https://psvun0116.github.io/portfolio/_
 
 ## Technologies Used
 
-_Terminal_
+* _Terminal_
 _Atom_
 _Git_
 _Github_
