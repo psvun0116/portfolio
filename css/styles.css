@@ -10,6 +10,11 @@ img {
   text-align: center;
 }
 
+.epicodus {
+  margin: 60px;
+  margin-right: 325px;
+}
+
 .sidebar {
   background-color: #A9A9A9;
   width: 265px;
@@ -30,6 +35,9 @@ img {
   color: white;
 }
 
+h2 {
+  margin-left: 20px;
+}
 
 h3 {
   color: #006600;
