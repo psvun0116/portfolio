@@ -1,4 +1,4 @@
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1490px) {
   body {
     background-color: black;
     color: white;
@@ -70,4 +70,11 @@ h3 {
   font-family: bold;
   font-style: italic;
   color: darkgray;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  margin-left: 5px;
+  padding: 5px;
 }
