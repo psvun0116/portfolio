@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is web page of my portfolio about me, why I decided to code, and my work I have learned throughout my time at Epicodus._
+_This is web page of my portfolio about me, why I decided to code, and my work I have learned throughout my time at Epicodus. Currently have learned HTML, CSS, and bootstrap. Applied block elements, styling with classes within CSS, DIVs and SPANs, floats, box models, cascading, and media query._
 
 ## Setup/Installation Requirements
 
