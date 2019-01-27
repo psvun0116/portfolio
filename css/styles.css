@@ -8,3 +8,10 @@ img {
   color: white;
   text-align: center;
 }
+
+.sidebar {
+  background-color:#BEBEBE;
+  width: 265px;
+  padding: 30px;
+  float: right;
+}
