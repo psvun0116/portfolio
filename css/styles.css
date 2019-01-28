@@ -13,6 +13,12 @@
   body .description {
     color: black;
   }
+  body .column {
+    width: 600px;
+    float: left;
+    margin-left: 5px;
+    padding: 5px;
+  }
 }
 
 img {
@@ -73,8 +79,9 @@ h3 {
 }
 
 .column {
-  width: 300px;
+  width: 400px;
   float: left;
   margin-left: 5px;
   padding: 5px;
+  margin: left;
 }
